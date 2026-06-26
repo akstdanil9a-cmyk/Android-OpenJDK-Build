@@ -37,4 +37,4 @@ export JVM_VARIANTS=[client/server] # default: server
 # Pack the built JDK
 ./remove_jdk_debug_info.sh
 ./tar_jdk.sh
-```
+```..
